@@ -1,4 +1,4 @@
-# IT Helper
+# IT Helpdesk Assistant
 
 A step-by-step troubleshooting chat assistant for non-technical school staff,
 built for a small education nonprofit's help desk. It walks users through
